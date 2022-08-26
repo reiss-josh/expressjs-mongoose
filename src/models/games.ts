@@ -27,7 +27,7 @@ const GamesSchema = new Schema({
   isOnlineMultiplayer: {
     type: Boolean,
   },
-  isSupportgamepad: {
+  isSupportGamepad: {
     type: Boolean,
   },
   isVirtualReality: {
